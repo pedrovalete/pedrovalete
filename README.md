@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey, I'm Pedro Valete! 👋
 
-<!--
-**pedrovalete/pedrovalete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I am currently studying **Systems Analysis and Development** at **IFSC (Federal Institute of Santa Catarina)**.
+- 🌱 I'm focused on learning and improving my skills in software development.
+
+## 🚀 Technologies and Tools
+
+I'm currently diving deeper into these technologies:
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+</div>
+
+## 📫 How to Reach Me
+
+<a href="mailto:pedrovalete06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+## 📊 My GitHub Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrovalete&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovalete&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
