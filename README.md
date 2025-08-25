@@ -21,8 +21,3 @@ I'm currently diving deeper into these technologies:
 ## 📫 How to Reach Me
 
 <a href="mailto:pedrovalete06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-## 📊 My GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrovalete&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovalete&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
