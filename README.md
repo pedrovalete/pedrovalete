@@ -1,6 +1,5 @@
 # Hey, I'm Pedro Valete! 
 
-Welcome to my GitHub profile.
 
 ## 👨‍💻 About Me
 
