@@ -4,7 +4,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 I am currently studying **Systems Analysis and Development** at **IFSC (Federal Institute of Santa Catarina)**.
-- 🌱 I'm focused on learning and improving my skills in data analysis.
+- 🌱 I'm focused on learning and improving my skills in data engineer.
 
 ## 🚀 Technologies and Tools
 
@@ -13,7 +13,8 @@ I'm currently diving deeper into these technologies:
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Spark" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg">
+  <img align="center" alt="Google Cloud" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
 
